@@ -1,0 +1,37 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.em-text{
+	color:#1caa98 !important;
+}
+
+.jumbotron{
+	background: url(../img/showcase_jumbotron.jpeg) repeat;
+	color:#fff;
+
+	overflow: none;
+}
+.jumbotron img.app-btn{
+	width:40%;
+	margin-right: 30px;
+}
+.jumbotron img.app-mobi-btn{
+	width:80%;
+	height: 90%;
+	margin-bottom: -20px;
+}
+
+ img.img_demo{
+	width:100%;
+	padding-left:20px;
+	border: 1px solid #ccc;
+}
+section{
+	
+}
+
