@@ -1,0 +1,49 @@
+header{
+background-image: linear-gradient(rgb(4, 81, 155), rgb(4, 70, 135) 60%, rgb(3, 55, 105));
+min-height: 100px;	
+padding-top:30px;
+}
+
+header form{
+	float: right;
+}
+
+header .logo{
+	float: left;
+}
+
+.card-header{
+	background-image: linear-gradient(rgb(4, 81, 155), rgb(4, 70, 135) 60%, rgb(3, 55, 105));
+	color:#fff;
+
+}
+
+.pull-right{
+	float: right;
+}
+
+.pull-right button{
+/*	background: #fff;
+	border: 1px solid;*/
+}
+
+.comment{
+/*	float: left;*/
+}
+.comment-avatar img{
+	width: 40px;
+	padding-right: 5px;
+}
+
+.friends li{
+	list-style: none;
+	padding: 5px;
+	display:inline;
+	float: left;
+
+}
+
+.friends img{
+	width: 55px;
+}
+
